@@ -3,9 +3,6 @@ import PopComponent from "./PopComponent";
 function UtilitiesCustomerSupport() {
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
-      {/* Header */}
-
-
       <header className="w-full bg-gray-200 py-16">
   <div className="max-w-7xl mx-auto px-4 flex flex-col lg:flex-row items-center">
     {/* Content Section */}
